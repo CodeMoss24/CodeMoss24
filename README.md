@@ -5,7 +5,7 @@ AI应用开发工程师 | 专注于 AI Agent 开发
 ## 🛠 Tech Stack
 
 - **后端：** Python, FastAPI, SQLAlchemy
-- **AI/LLM：** LangGraph, LangChain, RAG
+- **AI/LLM：** LangGraph, RAG
 - **数据：** MySQL, Redis, Qdrant
 - **前端：** Vue 3, TypeScript, Element Plus
 - **基础设施：** Docker, Nginx, Prometheus + Grafana
